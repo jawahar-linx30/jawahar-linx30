@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 🙏 Vanakkam! I'm Jawahar Lingam.<br>💻 I'm a passionate software developer who enjoys creating innovative solutions and exploring new technologies.<br>🎓 I've honed my Full-stack development skills through an internship at Byju's.<br>🌱 I'm actively learning new tech and frameworks to stay current with industry trends.<br>⚡ Pastime: I'm an avid chess player and enjoy playing blitz games in my free time.
 
 
@@ -10,13 +10,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jawahar-linx30&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jawahar-linx30&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jawahar-linx30&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jawahar-linx30&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br><br>
 [![](https://visitcount.itsvg.in/api?id=jawahar-linx30&icon=5&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jawahar_linx30) 
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jawahar_linx30)
+
+
+
