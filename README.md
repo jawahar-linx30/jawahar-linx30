@@ -1,5 +1,5 @@
 # ✨ About Me:
-🙏 Vanakkam! I'm Jawahar Lingam.<br>💻 I'm a passionate software developer who enjoys creating innovative solutions and exploring new technologies.<br>🎓 I've honed my Full-stack development skills through an internship at Byju's.<br>🌱 I'm actively learning new tech and frameworks to stay current with industry trends.<br>⚡ Pastime: I'm an avid chess player and enjoy playing blitz games in my free time.
+🙏 Vanakkam! I'm [Jawahar Lingam](https://www.linkedin.com/in/jawahar-linx30/).<br>💻 I'm a passionate software developer who enjoys creating innovative solutions and exploring new technologies.<br>🎓 I've honed my Full-stack development skills and got an opportunity to intern at Byju's.<br>🌱 I'm actively learning new tech and frameworks to stay current with industry trends.<br>⚡ Pastime: I'm an avid chess player and enjoy playing blitz games in my free time.
 
 
 ## 🌐 Socials:
